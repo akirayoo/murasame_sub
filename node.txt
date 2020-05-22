@@ -1,6 +1,2 @@
 #  节点列表
 
-#  Trojan-GO
-trojan://HGdasi29@gotw.murasame.best:443?allowInsecure=0&allowInsecureHostname=0&allowInsecureCertificate=0&sessionTicket=0&tfo=0#TG-Taiwan-C
-trojan://HGdasi29@gohk.murasame.best:443?allowInsecure=0&allowInsecureHostname=0&allowInsecureCertificate=0&sessionTicket=0&tfo=0#TG-Hongkong-C
-trojan://HGdasi29@gosk.murasame.best:443?allowInsecure=0&allowInsecureHostname=0&allowInsecureCertificate=0&sessionTicket=0&tfo=0#TG-OoSaka-B
